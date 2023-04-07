@@ -80,13 +80,18 @@
   
  <p align="left">
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img width=15% alt ="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+    <img alt ="Seaborn" width=15% src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
   </a>
         
  <a href="https://matplotlib.org/" target="_blank">
-   <img width=15% alt="Matplotlib" src="https://matplotlib.org/_static/images/logo_dark.svg">
+   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   </a>
- </p>
+
+  <a href="https://powerbi.microsoft.com/en-au/" target="_blank">
+	<img alt="PowerBi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+	</a>
+
+</p>
   
 
    ### DataBase Tools
